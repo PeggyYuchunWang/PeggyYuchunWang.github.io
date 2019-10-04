@@ -3,4 +3,4 @@ Personal Page
 
 https://peggyyuchunwang.github.io/
 
-peggy.yuchun.wang@gmail.com
+peggy.yuchun.wang@cs.stanford.edu
